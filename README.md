@@ -1,4 +1,4 @@
-# 👨‍💻 Nahuí R. Mattar
+# 👨‍💻 Nahuel Ruiz Mattar
 
 ### 🇦🇷 Developer. Explorer. Lifelong learner.
 
