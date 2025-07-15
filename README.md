@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👨‍💻 Nahuí R. Mattar
 
-<!--
-**nrmattar-dev/nrmattar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇦🇷 Developer. Explorer. Lifelong learner.
 
-Here are some ideas to get you started:
+> *"Life finds a way."* — Dr. Ian Malcolm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Me | Sobre mí
+
+I’m a software developer who enjoys learning and integrating new technologies.  
+Creativity and responsibility guide both my code and my curiosity.
+
+Desarrollador con pasión por descubrir, integrar y experimentar con nuevas tecnologías.  
+La creatividad y la responsabilidad son mis brújula y motor.
+
+---
+
+## 🚀 Tech Stack
+
+- ⚙️ GeneXus (Senior)
+- 🐍 Python
+- 🌐 HTML / JavaScript
+- 🔗 Solidity (Smart Contracts)
+
+---
+
+## 🧪 Projects
+
+Mostly personal experiments (for now), but I build with intent and care.  
+Each repo is a little lab, each commit a step forward.
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/nrmattar/)
+
+---
+
+## 🌱 Currently
+
+Just sharing what I do — maybe you’ll find something useful, or at least mildly curious.  
+Por ahora, solo comparto lo que hago — quizás algo te sirva, o al menos te intrigue.
+
+---
+
+> *“Entre bits y versos, cada línea es una semilla.”*
